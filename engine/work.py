@@ -15,7 +15,7 @@ __author__ = 'WorldCount'
 
 # Создает директории из списка
 def create_dirs(list_dirs):
-    if type(list) == list:
+    if type(list_dirs) == list:
         for new_dir in list_dirs:
             if not os.path.exists(new_dir):
                 os.makedirs(new_dir)
