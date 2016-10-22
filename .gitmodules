@@ -1,3 +1,6 @@
 [submodule "engine\\wc32app"]
 	path = engine\\wc32app
 	url = https://WorldCount@bitbucket.org/WorldCount/wc32app.git
+[submodule "engine\\mmp3"]
+	path = engine\\mmp3
+	url = https://WorldCount@bitbucket.org/WorldCount/mmp3.git
