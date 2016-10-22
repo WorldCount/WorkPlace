@@ -1,0 +1,3 @@
+[submodule "engine\\wc32app"]
+	path = engine\\wc32app
+	url = https://WorldCount@bitbucket.org/WorldCount/wc32app.git
