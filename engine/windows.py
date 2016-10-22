@@ -13,7 +13,7 @@ __author__ = 'WorldCount'
 """
 
 
-#
+# Главное окно приложения
 class AppWindow(WCWindow):
 
     def __init__(self, config_name, parent=None):
