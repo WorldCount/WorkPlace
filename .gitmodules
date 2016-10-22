@@ -7,3 +7,6 @@
 [submodule "engine\\postapi3"]
 	path = engine\\postapi3
 	url = https://WorldCount@bitbucket.org/WorldCount/postapi3.git
+[submodule "engine\\wcutils"]
+	path = engine\\wcutils
+	url = https://WorldCount@bitbucket.org/WorldCount/wcutils.git
