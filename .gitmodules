@@ -4,3 +4,6 @@
 [submodule "engine\\mmp3"]
 	path = engine\\mmp3
 	url = https://WorldCount@bitbucket.org/WorldCount/mmp3.git
+[submodule "engine\\postapi3"]
+	path = engine\\postapi3
+	url = https://WorldCount@bitbucket.org/WorldCount/postapi3.git
