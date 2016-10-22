@@ -3,7 +3,7 @@
 
 import os
 import ctypes
-from engine import work
+from engine.wcutils.files import create_dirs
 
 
 __author__ = 'WorldCount'
@@ -43,4 +43,4 @@ FILE_MASK = '*.*F'
 _mk_dirs = [DIR_REPORT, DIR_WIN_SETTINGS, DIR_DEFAULT_LOGS]
 
 # Создаем папки для работы
-work.create_dirs(_mk_dirs)
+create_dirs(_mk_dirs)
